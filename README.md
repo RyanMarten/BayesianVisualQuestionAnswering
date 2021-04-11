@@ -13,4 +13,4 @@ Generation of the orignal dataset found in this [file](https://github.com/kimhc6
 
 ## Notes
 1) Ok kaggle dataset might be inconsisetnet. Instead we are generating a new dataset using the original generator [file](https://github.com/kimhc6028/relational-networks/blob/master/sort_of_clevr_generator.py). Run with `python3 sort_of_clevr_generator.py`
-2) 
+2) HEre is another implementation: https://github.com/tcl326/relation-networks/blob/master/A%20Simple%20Neural%20Network%20Module%20for%20Relational%20Reasoning.ipynb
