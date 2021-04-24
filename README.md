@@ -2,7 +2,7 @@
 
 Reproducing results from [https://www.cs.ubc.ca/~saeidnp/files/reports/vqa-bayesian.pdf](https://www.cs.ubc.ca/~saeidnp/files/reports/vqa-bayesian.pdf)
 
-Explaination of the dataset is found [here](https://github.com/kimhc6028/relational-networks#:~:text=Sort%2Dof%2DCLEVR%20is%20simplified,and%20placed%20in%20a%20image.)
+Explaination of the sort-of-clevr dataset is found [here](https://github.com/kimhc6028/relational-networks#:~:text=Sort%2Dof%2DCLEVR%20is%20simplified,and%20placed%20in%20a%20image.)
 
 [VAE Model Trained by Ben](https://drive.google.com/file/d/1dMOIV_k0DZ07YdZvVgt657RWwYtujdQv/view)
 
