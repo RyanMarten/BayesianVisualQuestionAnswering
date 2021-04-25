@@ -1,4 +1,4 @@
-# BayesianVisualQuestionAnswering
+# Bayesian Visual Question Answering
 
 Reproducing results from Singh et. al [https://www.cs.ubc.ca/~saeidnp/files/reports/vqa-bayesian.pdf](https://www.cs.ubc.ca/~saeidnp/files/reports/vqa-bayesian.pdf). This is a visual question answering system in a fully Bayesian setting where vision and language have been disentangled into seperate inference problems. From an observed image, the image latents are inferred, and from an observed question, the question latents are observed. Then, a symbolic sovler uses the image latents and question latents to provide an answer to the question. The images and questions are from the sort-of-clevr dataset. 
 
