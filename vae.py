@@ -13,6 +13,8 @@ from pyro.infer import SVI, Trace_ELBO
 from pyro.optim import Adam
 import pickle
 
+# This code is heavily based on the Pyro tutorial code for Variational Auto-Encoders: https://pyro.ai/examples/vae.html
+
 class Encoder(nn.Module):
     def __init__(self, input_channels, hidden_channels, hidden_dim, z_dim):
         super().__init__()
